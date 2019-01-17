@@ -12,3 +12,10 @@
 
 <div id="gmap"></div>
 <script>window.onload = showMap()</script>
+
+## Fotos
+
+<div class="mediacontainer">
+  <img src="images/Kinderclub Kietzoase/1.jpg" />
+  </div>
+
