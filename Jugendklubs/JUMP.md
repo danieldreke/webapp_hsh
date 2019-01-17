@@ -13,3 +13,8 @@
 <div id="gmap"></div>
 <script>window.onload = showMap()</script>
 
+## Fotos
+
+<div class="mediacontainer">
+    <img src="images/Jump/1.jpg" />
+ </div>
