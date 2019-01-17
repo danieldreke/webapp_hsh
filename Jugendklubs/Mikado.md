@@ -12,3 +12,13 @@
 
 <div id="gmap"></div>
 <script>window.onload = showMap()</script>
+
+## Fotos
+
+<div class="mediacontainer">
+  <img src="images/Mikado/1.jpg" />
+  <img src="images/Mikado/2.jpg" />
+  <img src="images/Mikado/3.jpg" />
+  <img src="images/Mikado/4.jpg" />
+  <img src="images/Mikado/5.jpg" />
+ </div>
