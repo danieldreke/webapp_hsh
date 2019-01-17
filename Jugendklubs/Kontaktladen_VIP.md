@@ -12,3 +12,14 @@
 
 <div id="gmap"></div>
 <script>window.onload = showMap()</script>
+
+## Fotos
+
+<div class="mediacontainer">
+  <img src="images/VIP Kontaktladen/1.jpg" />
+  <img src="images/VIP Kontaktladen/2.jpg" />
+  <img src="images/VIP Kontaktladen/3.jpg" />
+  <img src="images/VIP Kontaktladen/4.jpg" />
+</div>
+
+
