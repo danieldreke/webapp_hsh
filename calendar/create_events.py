@@ -117,6 +117,8 @@ for delta in range(0, (ENDDATE - STARTDATE).days + 1):
     if weekdaynum == loopweekdaynum:
       eventtitle = '%s | %s' % (youthclubname, eventname)
       url = "{{ '/Jugendklubs/%s.html' | relative_url }}" % youthclubname.replace(' ', '_')
+      if 'SPIK_Jugendklub' in url:
+        url = url.replace('SPIK_Jugendklub.html', 'SPIK_JK.html')
       start = '%sT%s' % (loopday, starttime)
       end = '%sT%s' % (loopday, endtime)
       event = (eventtitle, url, start, end)
