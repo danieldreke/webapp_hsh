@@ -149,6 +149,6 @@
     margin: auto;
 }
 
-@media screen and (min-width: 42em) { #topmedia { width: 444px; } }
-@media screen and (max-width: 42em) { #topmedia { width: 60vmin; min-width: 70%; } }
-@media screen and (max-width: 21em) { #topmedia { width: 60vmin; min-width: 90%; } }
+@media screen and (min-width: 42em) { #topmedia { width: 555px; } }
+@media screen and (max-width: 42em) { #topmedia { width: 444px; } }
+@media screen and (max-width: 21em) { #topmedia { width: 333px; } }
