@@ -14,3 +14,11 @@
 
 <div id="gmap"></div>
 <script>window.onload = showMap()</script>
+
+## Fotos
+
+<div class="mediacontainer">
+  <img src="images/Holzwurmhaus/2.jpg" />
+  <img src="images/Holzwurmhaus/1.jpg" />
+</div>
+

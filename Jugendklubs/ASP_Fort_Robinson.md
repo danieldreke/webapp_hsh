@@ -12,3 +12,13 @@
 
 <div id="gmap"></div>
 <script>window.onload = showMap()</script>
+
+## Fotos
+
+<div class="mediacontainer">
+  <img src="images/ASP Fort Robinson/1.jpg" />
+  <img src="images/ASP Fort Robinson/2.jpg" />
+  <img src="images/ASP Fort Robinson/3.jpg" />
+  <img src="images/ASP Fort Robinson/4.jpg" />
+</div>
+
