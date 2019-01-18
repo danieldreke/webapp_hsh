@@ -1,6 +1,6 @@
 ## Du bist
 
-<script type="text/javascript"> window.onload = function() { document.title = "Hsh4You"; } </script>
+<script type="text/javascript"> window.onload = function() { document.title = "hsh4you.de"; } </script>
 
 <span id="spannowrap">
   <label class="userselectioncontainer">
